@@ -18,21 +18,5 @@ string.replace(____)
 firstName.replace(____)   
 astring.index(_____)
 
-
-### Replace the _______ bits with the correct code by editing the code in 'Raw' (see screenshot below)
-![](https://github.com/WUScompsci/python/blob/master/LTPIP/Chapter2/Images/Ch2_intro1.PNG)
-
-### The code below also has syntax errors.  Now scroll up to the top of the page, click the 'Raw' button, copy the code at the bottom part of the page and then run it in the 'Main' window of repl.it
-
-astring = "You've done a good job"
-print("Original string:", astring)
-
-print("nUppercase string:", astring.________())
-print("To replace the string 'good' with a new string:",astring.__________("good","brilliant"))
-print("The new string is:",astring)
-
-print("The first occurence of 'v' is at index :",astring.__________('v'))
-print("The word 'done' starts at index",astring.____________("done"))
-
-input ("\nPress Enter to exit")
+# Now go to Ch2_Example1.py and edit the file
 
