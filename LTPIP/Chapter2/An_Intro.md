@@ -15,6 +15,6 @@ The result of a boolean equation is always True or False
 
 [:tv: Chapter 2 - Using Variables](https://www.youtube.com/watch?v=h1IIG7tMaBM&list=PL_EbyzYKBbbVa4yBZsmkgH08YCDXe_qMX&index=5)
 
-[:notebook: Chapter 2 - Variable types and casting](https://www.youtube.com/watch?v=_3cbP27yTU8&list=PL_EbyzYKBbbVa4yBZsmkgH08YCDXe_qMX&index=6)
+[:tv: Chapter 2 - Variable types and casting](https://www.youtube.com/watch?v=_3cbP27yTU8&list=PL_EbyzYKBbbVa4yBZsmkgH08YCDXe_qMX&index=6)
 
 ## Now complete the first task called Chapter 2, Example 1       
