@@ -1,5 +1,4 @@
 # Chapter 2:  String methods
-# Chapter 2 -:
 
 Python uses ‘methods’ -  a method is written using the 'dot' notation, 
 Example:   the string.upper(firstName)
