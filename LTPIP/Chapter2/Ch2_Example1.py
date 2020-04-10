@@ -5,12 +5,12 @@
 astring = "You've done a good job"
 print("Original string:", astring)
 
-print("nUppercase string:", astring.________())
-print("To replace the string 'good' with a new string:",astring.__________("good","brilliant"))
+print("nUppercase string:", astring.upper())
+print("To replace the string 'good' with a new string:",astring.replac("good","brilliant"))
 print("The new string is:",astring)
 
-print("The first occurence of 'v' is at index :",astring.__________('v'))
-print("The word 'done' starts at index",astring.____________("done"))
+print("The first occurence of 'v' is at index :",astring.index('v'))
+print("The word 'done' starts at index",astring.index("done"))
 
 input ("\nPress Enter to exit")
 
