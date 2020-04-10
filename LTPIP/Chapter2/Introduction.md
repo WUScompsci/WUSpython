@@ -10,3 +10,9 @@ In this course uses 3 main sources:
 3) The website below is also very useful to learn Python.  Go to it whenever you get stuck
 
 [:notebook: Chapter 2 Code](https://www.w3schools.com/python/default.asp)
+
+##To start off with, watch these 2 Youtube tutorials below:
+
+[:tv: Chapter 2 - Using Variables](https://www.youtube.com/watch?v=h1IIG7tMaBM&list=PL_EbyzYKBbbVa4yBZsmkgH08YCDXe_qMX&index=5)
+
+[:notebook: Chapter 2 - Variable types and casting](https://www.youtube.com/watch?v=_3cbP27yTU8&list=PL_EbyzYKBbbVa4yBZsmkgH08YCDXe_qMX&index=6)
