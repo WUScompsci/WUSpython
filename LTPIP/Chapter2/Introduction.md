@@ -11,7 +11,7 @@ In this course uses 3 main sources:
 
 [:notebook: Chapter 2 Code](https://www.w3schools.com/python/default.asp)
 
-##To start off with, watch these 2 Youtube tutorials below:
+## To start off with, watch these 2 Youtube tutorials below:
 
 [:tv: Chapter 2 - Using Variables](https://www.youtube.com/watch?v=h1IIG7tMaBM&list=PL_EbyzYKBbbVa4yBZsmkgH08YCDXe_qMX&index=5)
 
