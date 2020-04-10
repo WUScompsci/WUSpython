@@ -20,7 +20,7 @@ astring.index(_____)
 
 
 ### Replace the _______ bits with the correct code by editing the code in 'Raw' (see screenshot below)
-![](LTPIP/Chapter2/Images/Ch2_intro1.PNG)
+![](https://github.com/WUScompsci/python/blob/master/LTPIP/Chapter2/Images/Ch2_intro1.PNG)
 The code below also has syntax errors.  Once you've changed it, copy the 'Raw' code and then run it in the Main window of repl.it
 
 astring = "You've done a good job"
