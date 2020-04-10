@@ -10,13 +10,14 @@ Example:   the string.upper(firstName)
 A method is a function that “belongs to” an 'object'. An object consists of data and/or behaviour.
 A method defines a particular behaviour of the object.  
 
-#### In the examples below ‘string’ and 'firstName' are just the name of the objects, like:
+In the examples below ‘string’ and 'firstName' are just the name of the objects, like:
 string.lower(___)	   
 firstName.replace(____)     
 string.find(___)  
 string.replace(____)   
 firstName.replace(____)   
 astring.index(_____)
+
 
 ### Replace the _______ bits with the correct code.  The code below also has syntax errors.  Once you've changed it, copy the 'Raw' code and then run it in the Main window of repl.it
 
