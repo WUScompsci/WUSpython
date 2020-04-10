@@ -22,7 +22,7 @@ astring.index(_____)
 ### Replace the _______ bits with the correct code by editing the code in 'Raw' (see screenshot below)
 ![](https://github.com/WUScompsci/python/blob/master/LTPIP/Chapter2/Images/Ch2_intro1.PNG)
 
-### The code below also has syntax errors.  Change the 'Raw' code, copy it and then run it in the 'Main' window of repl.it
+### The code below also has syntax errors.  Now scroll up to the top of the page, click the 'Raw' button, copy the code at the bottom part of the page and then run it in the 'Main' window of repl.it
 
 astring = "You've done a good job"
 print("Original string:", astring)
