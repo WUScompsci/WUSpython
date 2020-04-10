@@ -7,5 +7,7 @@ It also contains the actual Python code for students to compare their own code w
 ## This is a new sub header by using ##
 `How does this look?`
 **All assignment files can be found at the top of the page.**
+
 [:tv: Module 3.1 Video](https://youtu.be/JWyAp5EtaTU)
+
 ![](https://github.com/WUScompsci/python/blob/master/Github1.PNG)
