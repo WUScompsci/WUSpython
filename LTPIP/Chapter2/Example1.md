@@ -19,7 +19,9 @@ firstName.replace(____)
 astring.index(_____)
 
 
-### Replace the _______ bits with the correct code.  The code below also has syntax errors.  Once you've changed it, copy the 'Raw' code and then run it in the Main window of repl.it
+### Replace the _______ bits with the correct code by editing the code in 'Raw' (see screenshot below)
+![](https://github.com/github-campus-advisors/Campus-Advisor-Training/blob/master/Module%201/assets/issue_one.png)
+The code below also has syntax errors.  Once you've changed it, copy the 'Raw' code and then run it in the Main window of repl.it
 
 astring = "You've done a good job"
 print("Original string:", astring)
